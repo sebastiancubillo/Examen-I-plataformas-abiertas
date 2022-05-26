@@ -1,7 +1,10 @@
-# Examen-I-plataformas-abiertas
+# Examen-I-plataformas-abiertas.
+Sebastian Cubillo Saenz C12467.
 
 La pregunta número uno del proyecto debe compilarse en algún software compatible con lenguaje c, en este caso como opinión personal recomiendo el software "Dev-C++". En el programa antes mencionado el usuario debe abrir la carpeta denominada "preg1" dentro de la cual está presente el programa el cual debemos abrir para posteriormente compilar, el programa tiene como nombre "sin Nombre3" y posee una extensión de origen c. Para ejecutar el programa únicamente debe tener una previa compilación y para finalizar esté, el usuario debe digitar el numero -1.
 
 La pregunta dos del proyecto al igual que la anterior esta desarrollada en Dev-C++ por lo cual cuenta con las mismas instrucciones antes mencionadas, lo único que varia es el nombre del archivo principal el cual se denomina "pregunta2".
 
 Y por ultimo, la carpeta de nombre "preg4" posee un script funcional tanto en Windows como en Linux; este script permite descargar un archivo zip de la pagina oficial del tribunal supremo de elecciones, para posteriormente mediante el mismo script descomprimirlo y a su vez ejecutarlo, navegando dentro del propio archivo txt mediante la funcion de busqueda grep para así encontrar un número de cédula de manera rápida y concisa. Para ejecutar el archivo el usuario debe poseer los permisos de ejecución los cuales si no se tienen se pueden otorgar mediante el comando "chmod" seguido de una letra que depende a quien o quienes el usuario le quiere dar permisos, u usuario, g grupo, a todas las categorías anteriores, luego indicar si se van a agregar permisos(+) o quitar (-), posterior a ello el tipo de permiso que se quiere otorgar r para lectura, w para escritura, x para ejecución. Una vez se cuenten con los permisos adecuados se podra ejecutar el script mediante la terminal o consola con el comando .\(el nombre del script) en este caso .\numerosdecedula.sh y el programa estará ejecutado.
+
+Por favor, le invito a que ya sea al final de la ejecución y revisión de los programas lea el otro archivo .txt, de antemano gracias.
