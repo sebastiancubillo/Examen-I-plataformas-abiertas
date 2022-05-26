@@ -1,1 +1,0 @@
-# Examen-I-plataformas-abiertas
